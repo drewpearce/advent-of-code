@@ -1,0 +1,1 @@
+__name__ == 'advent_of_code'
