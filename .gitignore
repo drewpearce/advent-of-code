@@ -162,3 +162,4 @@ cython_debug/
 .vscode/
 temp*
 advent-of-code/2023/helpers
+advent-of-code/tools/helpers
