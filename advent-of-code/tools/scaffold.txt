@@ -1,0 +1,19 @@
+from helpers.aoc import get_input
+
+
+def part_1(_in):
+    return 1
+
+
+def part_2(_in):
+    return 2
+
+
+def main():
+    _in = get_input({{year}}, {{day}})
+    print(part_1(_in))
+    print(part_2(_in))
+
+
+if __name__ == '__main__':
+    main()
