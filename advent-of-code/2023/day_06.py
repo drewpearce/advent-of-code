@@ -53,8 +53,6 @@ def part_2(_in):
 
 def main():
     _in = get_input(2023, 6)
-#     _in = """Time:      7  15   30
-# Distance:  9  40  200"""
     print(part_1(_in))
     print(part_2(_in))
 
