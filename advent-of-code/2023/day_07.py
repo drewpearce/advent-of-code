@@ -105,12 +105,6 @@ def part_2(_in):
 
 def main():
     _in = get_input(2023, 7)
-#     _in = """32T3K 765
-# T55J5 684
-# KK677 28
-# KTJJT 220
-# QQQJA 483
-# """
     print(part_1(_in))
     print(part_2(_in))
 
